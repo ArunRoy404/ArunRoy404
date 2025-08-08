@@ -39,9 +39,30 @@
 
 ---
 
+<!-- Current Activities  -->
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Tech Stack:</span></h2>
+
+<!-- Programming languages  -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript" />
+  </a>
+</p>
+<!-- Frameworks and Libraries -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,redux,tailwindcss,materialui" />
+  </a>
+</p>
+<!-- Tools -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vite,firebase,mongodb,npm,netlify,vercel,figma" />
+  </a>
+</p>
 
 
-
+---
 
 <!--
 **ArunRoy404/ArunRoy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
