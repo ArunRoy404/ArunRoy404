@@ -3,7 +3,7 @@
 
 <br/>
 
---- 
+
 
 
 <!-- Title  -->
@@ -11,7 +11,7 @@
 
 ### <p align="center">Frontend & MERN Stack Developer | Passionate about Problem Solving | Tech Explorer</p>
 
----
+
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 **Let’s work together to turn ideas into reality!** 🚀
 
----
+
 
 <br/>
 
@@ -40,7 +40,7 @@
 - 🤝 Looking for the **opportunity to collaborate**. 
 
 
----
+
 
 <br/>
 
@@ -66,7 +66,7 @@
   </a>
 </p>
 
----
+
 
 <br/>
 
@@ -92,7 +92,7 @@
   </a>
 </p>
 
----
+
 
 <br/>
 
@@ -101,11 +101,11 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=ArunRoy404&theme=dark" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=ArunRoy404&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
----
+![ArunRoy404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRoy404&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **ArunRoy404/ArunRoy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
