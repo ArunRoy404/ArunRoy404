@@ -87,7 +87,7 @@
   <a href="https://orunroy.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:arunroy0065@gmail.com" target="_blank">
+  <a href="mailto:orunroy.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -100,13 +100,14 @@
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Github Stats:</span></h2>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRoy404&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=ArunRoy404&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRoy404&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 <!--
