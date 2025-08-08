@@ -63,7 +63,7 @@
 
 ---
 
-<!-- Current Activities  -->
+<!-- let's Stay Connected  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Let's Stay Connected:</span></h2>
 
 <!-- animation  -->
@@ -78,13 +78,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://orunroy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:arunroy0065@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+---
+
+<!-- Github Stats  -->
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; 
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ArunRoy404&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 <!--
 **ArunRoy404/ArunRoy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
