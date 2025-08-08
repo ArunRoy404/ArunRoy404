@@ -3,7 +3,10 @@
 
 
 
-## Hi there 👋
+<h1 align="center">👋 Hi I'm Orun Chondro Ray</h1>
+### <p align="center">Frontend & MERN Stack Developer | Passionate about Problem Solving | Tech Explorer</p>
+
+
 
 <!--
 **ArunRoy404/ArunRoy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
