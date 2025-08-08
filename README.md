@@ -13,6 +13,8 @@
 
 ---
 
+<br/>
+
 <!-- About Me  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>About ME:</span></h2>
 
@@ -27,6 +29,7 @@
 
 ---
 
+<br/>
 
 <!-- ACurrent Activities  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Current Activities:</span></h2>
@@ -38,6 +41,8 @@
 
 
 ---
+
+<br/>
 
 <!-- Current Activities  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Tech Stack:</span></h2>
@@ -63,6 +68,8 @@
 
 ---
 
+<br/>
+
 <!-- let's Stay Connected  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Let's Stay Connected:</span></h2>
 
@@ -87,10 +94,16 @@
 
 ---
 
-<!-- Github Stats  -->
-<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; 
+<br/>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ArunRoy404&hide_border=true)](https://git.io/streak-stats)
+<!-- Github Stats  -->
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Github Stats:</span></h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=ArunRoy404&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
