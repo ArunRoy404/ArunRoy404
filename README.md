@@ -16,14 +16,26 @@
 <!-- About Me  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>About ME:</span></h2>
 
-- 🔧 Favorite tech stack includes **NextJS**, **React**, **Tailwind CSS** and **NodeJS**.
+- 🔧 Favorite tech stack includes **NextJS**, **React**, **NodeJS** and **Tailwind CSS**.
 - 💡 The thrill I get tackling real-world issues via **programming** keeps me **motivated**.  
-- 🎨 Exploring **Figma**, **Framer**, and **UI/UX** design
 - 🚀 keen on learning and adapting to **new technologies** and **trends**. 
 - 🎯 I relish the opportunity to **face complex problems**.
-- 📚 I consider every experience, be it a bug or a framework, as an **opportunity** to grow.  
+- 📚 I consider every experience, be it a bug or a framework, as an **opportunity** to grow.
+- ❤️ Love playing online PC games.
 
 **Let’s work together to turn ideas into reality!** 🚀
+
+---
+
+
+<!-- ACurrent Activities  -->
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Current Activities:</span></h2>
+
+- 🌱 Learning advanced **NextJS**, **React**, and **NodeJS**.
+- 🎨 Exploring **Figma**, **Framer**, and **UI/UX** design concepts.
+- 💻 Working on a new **Railway Ticket Automation** project.
+- 🤝 Looking for the **opportunity to collaborate**. 
+
 
 ---
 
