@@ -105,7 +105,9 @@
   </a>
 </p>
 
-![ArunRoy404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRoy404&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRoy404&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
 
 <!--
 **ArunRoy404/ArunRoy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
