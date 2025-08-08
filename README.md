@@ -66,18 +66,21 @@
 <!-- Current Activities  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Let's Stay Connected:</span></h2>
 
+<!-- animation  -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp5dzV1bDVmbWEzaHM0bnIzdTZsbDlneHVlcXd3dG12ZnQ1c3JubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" width="150px">
+</p>
+
+
 <!-- Links  -->
-<p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/orun-chondro-ray/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://orunroy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:arunroy0065@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
