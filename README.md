@@ -27,7 +27,7 @@
 
 **Let’s work together to turn ideas into reality!** 🚀
 <!-- Links  -->
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/orun-chondro-ray/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     width
