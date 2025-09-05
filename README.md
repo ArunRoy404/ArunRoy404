@@ -84,10 +84,10 @@
   <a href="https://www.linkedin.com/in/orun-chondro-ray/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://orunroy.netlify.app/" target="_blank">
+  <a href="https://orun-roy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:orunroy.dev@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=orunroy.dev@gmail.com&su=Collaboration Opportunity&body=Hi Orun,%0D%0A%0D%0AI’d like to discuss a new project / idea with you.%0D%0A%0D%0ARegards," target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
