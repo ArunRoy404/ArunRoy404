@@ -26,6 +26,26 @@
 - ❤️ Love playing online PC games.
 
 **Let’s work together to turn ideas into reality!** 🚀
+<!-- Links  -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/orun-chondro-ray/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    width
+    alt="LinkedIn" />
+  </a>
+  <a href="https://orun-roy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" 
+    alt="Portfolio" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=orunroy.dev@gmail.com&su=Collaboration Opportunity&body=Hi Orun,%0D%0A%0D%0AI’d like to discuss a new project / idea with you.%0D%0A%0D%0ARegards," target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Email" />
+  </a>
+  <a href="https://wa.me/8801799919550" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+    alt="Whatsapp" />
+  </a>
+</p>
 
 
 
