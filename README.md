@@ -1,5 +1,5 @@
 <!-- banner  -->
-<img src="images/Banner.png" />
+<img src="https://raw.githubusercontent.com/ArunRoy404/ArunRoy404/main/images/Banner.png" />
 
 <br/>
 
