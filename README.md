@@ -122,8 +122,15 @@
 <!-- Github Stats  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Github Stats:</span></h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRoy404&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
+
+<p align="left">
+  <a href="https://github.com/ArunRoy/cf-stats">
+    <img src="https://raw.githubusercontent.com/ArunRoy/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+  </a>
 </p>
 
 
