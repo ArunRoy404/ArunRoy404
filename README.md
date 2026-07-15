@@ -122,22 +122,24 @@
 <!-- Github Stats  -->
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span>Github Stats:</span></h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRoy404&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
-
-
-<p align="left">
-  <a href="https://codeforces.com/profile/arunroy" target="_blank">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=arunroy&theme=dark" alt="Codeforces Stats" />
-  </a>
-</p>
-
-
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=ArunRoy404&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ArunRoy404&theme=dark&hide_border=true&card_width=1000" alt="GitHub Streak" width="100%" style="border-radius: 12px;" />
   </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/arunroy" target="_blank">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=arunroy&theme=dark" alt="Codeforces Stats" width="100%" style="border-radius: 12px;" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ArunRoy404&type=languages&theme=dark&chart=donut" alt="Top Languages" width="100%" style="border-radius: 12px;" />
 </p>
 
 <!--
