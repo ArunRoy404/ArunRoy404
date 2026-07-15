@@ -128,8 +128,8 @@
 
 
 <p align="left">
-  <a href="https://github.com/ArunRoy/cf-stats">
-    <img src="https://raw.githubusercontent.com/ArunRoy/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+  <a href="https://codeforces.com/profile/arunroy" target="_blank">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=arunroy&theme=dark" alt="Codeforces Stats" />
   </a>
 </p>
 
